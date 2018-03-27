@@ -15,5 +15,13 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+.conc1{
+    width: 60%;
+}
+
+thead{
+    font-weight: bold;
+    text-decoration: underline;
+}
 
 /* Voeg jouw css hieraan toe */
