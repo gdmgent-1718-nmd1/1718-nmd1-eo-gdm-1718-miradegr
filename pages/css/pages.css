@@ -24,4 +24,13 @@ thead{
     text-decoration: underline;
 }
 
+table{
+    table-layout: fixed;
+    width: 100%;
+}
+
+td{
+    padding: 5px;
+}
+
 /* Voeg jouw css hieraan toe */
