@@ -33,4 +33,22 @@ td{
     padding: 5px;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
+div{
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px rgb(181, 181, 182);
+    
+}
+
+h2.background{
+    border-radius: 100px;
+    background-color: lightgray;
+    line-height: 2em;
+    padding: 10px 20px ;
+}
+
 /* Voeg jouw css hieraan toe */
