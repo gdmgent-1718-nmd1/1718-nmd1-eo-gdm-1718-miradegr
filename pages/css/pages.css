@@ -68,3 +68,30 @@ h2.background{
     font-size: 16px;
     padding: 10px 10px 10px 20px;
 }
+
+img{
+    padding: 8px ;
+    margin: 0px;
+    width: 80px;
+}
+
+.heading{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: hsl(23, 75%, 74%);
+    border: 3px solid  hsl(23, 75%, 74%);
+    align: center;
+    text-align:center; 
+    vertical-align:middle;
+    height: 10px;
+}
+
+table{
+    width: 800px;
+
+}
+
+.agendaHeading{
+    width: 50px;
+}
+
